@@ -6,3 +6,6 @@ Ficheiro com alguma modificação.
 Adicionei uma linha.
 
 Adicionei outra linha.
+
+Alterações com o repositório remoto em funcionamento.
+
